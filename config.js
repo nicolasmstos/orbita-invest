@@ -9,6 +9,6 @@
 //  NUNCA coloque aqui a "service_role key".
 // ============================================================
 window.ORBITA_CONFIG = {
-  SUPABASE_URL: "",        // ex.: "https://abcdefgh.supabase.co"
-  SUPABASE_ANON_KEY: ""    // ex.: "eyJhbGciOiJIUzI1NiIsInR5cCI6..."
+  SUPABASE_URL: "https://xtwqncsgayzoyvdhawjp.supabase.co/rest/v1/",        // ex.: "https://abcdefgh.supabase.co"
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh0d3FuY3NnYXl6b3l2ZGhhd2pwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAyNTAxNzcsImV4cCI6MjEwNTgyNjE3N30.qtNlg1PY2znRMhxgiDMegYbU1r2xpC6q8FaZ026ojTA"    // ex.: "eyJhbGciOiJIUzI1NiIsInR5cCI6..."
 };
